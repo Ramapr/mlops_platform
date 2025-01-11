@@ -1,0 +1,3 @@
+[submodule "models_factory"]
+	path = models_factory
+	url = https://github.com/Ramapr/model_factory
